@@ -1,6 +1,6 @@
 # Custom bluetooth keyboard
 
-About the code
+ABOUT THE CODE
 
 this code is based on examples provide by Adafruit for a Bluetooth keyboard 
 Adafruit-Feather-nRF52- Bluefruit-nRF52832
@@ -11,7 +11,8 @@ A2, 11, A0, 15, 27, A3, 31, 30, 25, A5, A4, A1
 it has two modes windows mode (num==1) and procreate mode (num==0)
 A1 is the switch between Win and Ipad
 
-List of materials
+
+LIST OF HARDWARE
 
 arduino
 https://www.amazon.co.uk/ Adafruit-Feather-nRF52- Bluefruit-nRF52832/dp/ B07DM1WVM3/ref=sr_1_1?s= electronics&ie=UTF8&qid= 1548008745&sr=1-1&keywords= adafruit+nrf52
@@ -25,7 +26,6 @@ https://www.adafruit.com/ product/1119
 
 small buttons
 https://www.adafruit.com/ product/367
-
 
 battery
 https://www.amazon.co.uk/gp/ product/B00NAOS8Z2?pf_rd_p= 71cb17e9-f468-4d3f-94d5- a0de44c50a7e&pf_rd_r= 0S9T4CG8A57GR8RSJ9ZD
