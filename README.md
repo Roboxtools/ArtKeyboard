@@ -1,4 +1,4 @@
-# Art_tools
+# Custom bluetooth keyboard
 
 this code is based on examples provide by Adafruit for a Bluetooth keyboard 
 Adafruit-Feather-nRF52- Bluefruit-nRF52832
