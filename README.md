@@ -30,3 +30,8 @@ https://www.adafruit.com/ product/367
 battery
 https://www.amazon.co.uk/gp/ product/B00NAOS8Z2?pf_rd_p= 71cb17e9-f468-4d3f-94d5- a0de44c50a7e&pf_rd_r= 0S9T4CG8A57GR8RSJ9ZD
 
+
+KNOWN ISSUES
+-pairing windows and ipad at same time generated errors if this happen unpair all machine and only pair with one machine
+-pin 16 after a year of use shortcircuit I'm not clear if is a problem on my soldering or with the pin if this happen just reroute to another pin
+
