@@ -1,4 +1,4 @@
-# Custom bluetooth keyboard
+# Custom bluetooth keyboard for PROCREATE and windows
 
 ABOUT THE CODE
 
