@@ -3,6 +3,24 @@
 
 ![image01](https://github.com/Roboxtools/Art_tools/blob/master/image03.jpg?raw=true)
 
+**LAYOUT**
+
+ undo                    redo
+
+full screen      increase brush
+
+color            decrease brush
+
+brushes         ———————
+
+colorpciker         Layers
+
+—————-         Action menu
+
+selection      Transformation
+
+
+
 **ABOUT THE CODE**
 
 this code is based on examples provide by Adafruit for a Bluetooth keyboard 
