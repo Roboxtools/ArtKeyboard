@@ -1,4 +1,4 @@
-# Custom bluetooth keyboard for PROCREATE and windows
+# Custom bluetooth keyboard for PROCREATE and windows (clip studio)
 https://www.youtube.com/watch?v=9TROEPfZXaY
 
 
