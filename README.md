@@ -1,7 +1,9 @@
 # Custom bluetooth keyboard for PROCREATE and windows (clip studio)
-https://www.youtube.com/watch?v=9TROEPfZXaY
+
 
 ![image01](https://github.com/Roboxtools/Art_tools/blob/master/image03.jpg?raw=true)
+
+[![](http://img.youtube.com/vi/9TROEPfZXaY/0.jpg)](http://www.youtube.com/watch?v=9TROEPfZXaY "")
 
 ABOUT THE CODE
 
