@@ -3,8 +3,6 @@
 
 ![image01](https://github.com/Roboxtools/Art_tools/blob/master/image03.jpg?raw=true)
 
-[![](http://img.youtube.com/vi/9TROEPfZXaY/0.jpg)](http://www.youtube.com/watch?v=9TROEPfZXaY "")
-
 **ABOUT THE CODE**
 
 this code is based on examples provide by Adafruit for a Bluetooth keyboard 
@@ -44,3 +42,5 @@ battery (I charge the keyboard less than one a month with this battery really ni
 
 -pin 16 after a year of use shortcircuit I'm not clear if is a problem on my soldering or with the pin if this happen just reroute to another pin
 
+
+[![](http://img.youtube.com/vi/9TROEPfZXaY/0.jpg)](http://www.youtube.com/watch?v=9TROEPfZXaY "")
