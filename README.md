@@ -1,4 +1,4 @@
-# Custom bluetooth keyboard for PROCREATE and windows (clip studio)
+# Custom bluetooth keyboard for PROCREATE (ipad) and ClipStudio (win)
 
 
 ![image01](https://github.com/Roboxtools/Art_tools/blob/master/image03.jpg?raw=true)
