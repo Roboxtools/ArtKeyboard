@@ -5,19 +5,20 @@
 
 **LAYOUT**
 
- undo                    redo
 
-full screen      increase brush
+-----undo------------redo---
 
-color            decrease brush
+full screen----increase brush
 
-brushes         ———————
+color----------decrease brush
 
-colorpciker         Layers
+brushes---------------------
 
-—————-         Action menu
+colorpicker-----------Layers
 
-selection      Transformation
+-----------------Action menu
+
+selection-----Transformation
 
 
 
