@@ -59,6 +59,9 @@ battery (I charge the keyboard less than one a month with this battery really ni
 
 
 **TESTING**
+
+![image03](https://raw.githubusercontent.com/Roboxtools/ArtKeyboard/master/test_scheme.jpg)
+
 testing the code with two buttons
 
 steps to test
