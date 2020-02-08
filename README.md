@@ -40,7 +40,7 @@ it has two modes:
 A1 is the switch between Win and Ipad by default start in win mode
 
 
-**LIST OF HARDWARE**
+**LIST OF PARTS**
  
 Adafruit-Feather-nRF52 arduino
 [Adafruit-Feather-nRF52](https://www.amazon.co.uk/Adafruit-Feather-nRF52-Bluefruit-nRF52832/dp/B07DM1WVM3/ref=sr_1_1?s=electronics&ie=UTF8&qid=1548008745&sr=1-1&keywords=adafruit+nrf52)
