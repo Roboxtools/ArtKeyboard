@@ -74,6 +74,8 @@ steps to test
 
 **KNOWN ISSUES**
 
+-only compatible with adafruit nrf52 v0.9.4 board library
+
 -pairing windows and ipad at same time generated errors if this happen unpair all machine and only pair with one machine
 
 -pin 16 after a year of use shortcircuit I'm not clear if is a problem on my soldering or with the pin if this happen just reroute to another pin
