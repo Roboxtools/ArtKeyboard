@@ -56,6 +56,7 @@ small buttons (for secondary functions)
 
 battery (I charge the keyboard less than one a month with this battery really nice)
 [battery](https://www.amazon.co.uk/gp/product/B00NAOS8Z2?pf_rd_p=71cb17e9-f468-4d3f-94d5-a0de44c50a7e&pf_rd_r=0S9T4CG8A57GR8RSJ9ZD)
+cheaper option [Nokia-battery](https://www.amazon.co.uk/Nokia-Genuine-Original-BL-5C-Battery-Black-Grey/dp/B008J25IX0/ref=sr_1_4?crid=21N313J2Q8YKE&keywords=nokia+bl-5c&qid=1582116693&s=electronics&sprefix=nokia+bl%2Celectronics%2C149&sr=1-4)
 
 
 **TESTING**
