@@ -2,6 +2,6 @@
 
 1o buttons
 
-![image02](https://github.com/Roboxtools/ArtKeyboard/blob/master/Board_v09l/ArtKeyboard_v09s.jpg?raw=true)
+![image02](https://github.com/Roboxtools/ArtKeyboard/blob/master/Board_v09s/ArtKeyboard_v09s.jpg?raw=true)
 
 
