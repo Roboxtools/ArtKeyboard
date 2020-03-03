@@ -1,1 +1,1 @@
-**ArtKeyboardV9 long**
+**ArtKeyboardV9 Short 10 buttons**
