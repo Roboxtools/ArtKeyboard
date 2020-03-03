@@ -1,1 +1,3 @@
-**Art Keyboard V9 long 14 buttons**
+**Art Keyboard V9 long for printed board**
+
+14 buttons
