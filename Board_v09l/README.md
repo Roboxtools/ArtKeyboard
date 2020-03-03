@@ -1,4 +1,4 @@
-**Art Keyboard V9 long for printed board**
+**Art Keyboard V09**
 14 buttons
 
 ![image02](https://github.com/Roboxtools/ArtKeyboard/blob/master/Board_v09l/ArtKeyboard_v09l.jpg?raw=true)
