@@ -1,5 +1,5 @@
 **Art Keyboard v09l**
-for 14 buttons printed board 
+for 14 buttons printed board
 
 ArtKeyboardV09S.ino      PROCREATE
 
