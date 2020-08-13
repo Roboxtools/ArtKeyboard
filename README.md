@@ -75,7 +75,7 @@ steps to test
 
 **KNOWN ISSUES**
 
--only compatible with adafruit nrf52 v0.9.4 board library
+-only compatible with adafruit nrf52 v0.9.3 board library
 
 -pairing windows and ipad at same time generated errors if this happen unpair all machine and only pair with one machine
 
